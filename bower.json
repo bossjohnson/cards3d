@@ -1,0 +1,22 @@
+{
+  "name": "cards3d",
+  "description": "3D cards using Three.js",
+  "main": "",
+  "authors": [
+    "Josh Newsom"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "threejs": "*",
+    "Physijs": "physijs#*"
+  }
+}
